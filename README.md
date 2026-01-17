@@ -2,7 +2,7 @@
 
 Se você é usuário do **SilvioLinux**, deve **provar a ferramenta SilvioISO** e criar a **sua própria distribuição Linux baseada no SilvioLinux**.
 
-O **SilvioLinux** é uma distribuição criada por **Sílvio Ramalho Neto da Silva**, baseada no **Yocto Project** e que utiliza o **gerenciador de pacotes `opkg`**. Para facilitar a criação de ISOs personalizadas, o autor lançou a ferramenta **SilvioISO**, escrita em **Shell Script** e **Lua**.
+O **SilvioLinux** é uma distribuição criada por **Sílvio Ramalho Neto da Silva**, baseada no **Yocto Project** e que utiliza o **gerenciador de pacotes `opkg`**. Para facilitar a criação de ISOs personalizadas, o autor lançou a ferramenta **SilvioISO**, escrita em **Shell Script** e **Python3** e **GTK-4.0**.
 
 > ⚠️ **Importante:** A ferramenta **SilvioISO só é suportada no SilvioLinux**. É necessário ter o **SilvioLinux instalado no computador** para utilizar esta ferramenta.
 
